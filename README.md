@@ -9,3 +9,7 @@ Tool
 5. Text Editor
 
 First Release
+
+How to use
+1. Edit BuildALLSTEP.cmd with your favorite text editor
+2. Edit the defined set depend on your project and API
